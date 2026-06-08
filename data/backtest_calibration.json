@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-06-08 19:54:46",
+  "history_days": 30,
+  "history_periods": 3,
+  "total_judgeable": 89,
+  "asset_analyses": {
+    "gold": {
+      "asset_name": "黄金",
+      "total_samples": 35,
+      "overall_accuracy": 0.6,
+      "by_direction": {
+        "bullish": {
+          "count": 23,
+          "correct": 17,
+          "accuracy": 0.7391
+        },
+        "bearish": {
+          "count": 12,
+          "correct": 4,
+          "accuracy": 0.3333
+        }
+      },
+      "bias_found": true,
+      "calibration": "黄金利空判断准确率(33%)显著低于利多判断(74%)，模型对该资产存在过度悲观倾向。建议对利空新闻要求更高证据强度。"
+    },
+    "silver": {
+      "asset_name": "白银",
+      "total_samples": 26,
+      "overall_accuracy": 0.6923,
+      "by_direction": {
+        "bullish": {
+          "count": 17,
+          "correct": 17,
+          "accuracy": 1.0
+        },
+        "bearish": {
+          "count": 9,
+          "correct": 1,
+          "accuracy": 0.1111
+        }
+      },
+      "bias_found": true,
+      "calibration": "白银利空判断准确率(11%)显著低于利多判断(100%)，模型对该资产存在过度悲观倾向。建议对利空新闻要求更高证据强度。；白银偏空判断近9次仅1次正确(11%)，建议对该方向的判断逻辑进行审查。"
+    },
+    "crude_oil": {
+      "asset_name": "原油",
+      "total_samples": 25,
+      "overall_accuracy": 0.52,
+      "by_direction": {
+        "bullish": {
+          "count": 16,
+          "correct": 6,
+          "accuracy": 0.375
+        },
+        "bearish": {
+          "count": 9,
+          "correct": 7,
+          "accuracy": 0.7778
+        }
+      },
+      "bias_found": true,
+      "calibration": "原油利多判断准确率(38%)显著低于利空判断(78%)，模型对该资产存在过度乐观倾向。建议对利多新闻要求更高证据强度。"
+    },
+    "usd_index": {
+      "asset_name": "美元指数",
+      "total_samples": 3,
+      "overall_accuracy": 0.6667,
+      "by_direction": {
+        "bullish": {
+          "count": 1,
+          "correct": 1,
+          "accuracy": 1.0
+        },
+        "bearish": {
+          "count": 2,
+          "correct": 1,
+          "accuracy": 0.5
+        }
+      },
+      "bias_found": false,
+      "calibration": "未发现显著偏差，维持现有判断标准。"
+    }
+  },
+  "prompt_section": "## 历史回测校准（自动生成）\n\n以下校准建议基于最近 30 天的回测数据（共 89 次可判断样本），\n请在本轮分析中参考：\n\n- **黄金**：黄金利空判断准确率(33%)显著低于利多判断(74%)，模型对该资产存在过度悲观倾向。建议对利空新闻要求更高证据强度。\n- **白银**：白银利空判断准确率(11%)显著低于利多判断(100%)，模型对该资产存在过度悲观倾向。建议对利空新闻要求更高证据强度。；白银偏空判断近9次仅1次正确(11%)，建议对该方向的判断逻辑进行审查。\n- **原油**：原油利多判断准确率(38%)显著低于利空判断(78%)，模型对该资产存在过度乐观倾向。建议对利多新闻要求更高证据强度。\n\n---\n"
+}

@@ -1,0 +1,22 @@
+运行时间：2026-06-08 19:56:48.869408
+候选快讯总数：37
+Excel 输出（全部）：/root/.openclaw/workspace/CommodityMorningBrief/output/commodity_news_20260608.xlsx
+简报输出（10条最重要）：/root/.openclaw/workspace/CommodityMorningBrief/output/morning_brief_20260608.md
+/usr/local/lib/python3.8/dist-packages/OpenSSL/SSL.py:16: CryptographyDeprecationWarning: Python 3.8 is no longer supported by the Python core team and support for it is deprecated in cryptography. The next release of cryptography will remove support for Python 3.8.
+  from cryptography import x509
+金银商品早报生成完成
+Excel 文件（全部37条）：/root/.openclaw/workspace/CommodityMorningBrief/output/commodity_news_20260608.xlsx
+简报文件（10条最重要）：/root/.openclaw/workspace/CommodityMorningBrief/output/morning_brief_20260608.md
+运行日志：/root/.openclaw/workspace/CommodityMorningBrief/output/run_log.txt
+
+[6/6] 发送邮件...
+📤 准备推送: CommodityMorningBrief 每日简报 - 20260608
+   内容长度: 3124 字符 (截取前 2000 发送)
+
+  ✅ 飞书推送成功
+   📎 附件: commodity_news_20260608.xlsx (14478 bytes)
+✅ HTML 邮件发送成功: qimr07@163.com
+
+💡 微信/PushPlus 保留 Markdown 文本；邮件使用 HTML + 纯文本双版本
+
+[19:56:51] === 全部完成 ===

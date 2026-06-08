@@ -1,0 +1,715 @@
+[
+  {
+    "news_id": "cls_2393085",
+    "source": "财联社",
+    "publish_time": "2026-06-08 08:29",
+    "title": "财联社6月8日电，日本10年期国债收益率上升3.5个基点，至2.7%。",
+    "url": "https://api3.cls.cn/share/article/2393085?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "macro",
+    "related_assets": [
+      "gold",
+      "silver"
+    ],
+    "summary": "日本10年期国债收益率上行3.5个基点至2.7%。",
+    "region": "international",
+    "impact_direction": "bearish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "日本国债收益率上行通常反映全球利率预期走高，对贵金属形成边际压制，但影响有限。根据历史回测，对黄金、白银的利空判断准确率较低，故降低信心和强度。",
+    "risk_note": "利空影响可能被其他因素对冲，日本债券市场波动对全球资产传导有限。"
+  },
+  {
+    "news_id": "yicai_103218882",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 08:27",
+    "title": "现货黄金向上触及4350美元/盎司",
+    "url": "",
+    "category": "gold",
+    "related_assets": [
+      "gold"
+    ],
+    "summary": "现货黄金价格日内涨0.51%，触及4350美元/盎司。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "金价上涨本身是市场短期行为，不构成独立驱动逻辑，但反映当前多头情绪。",
+    "risk_note": "无新增驱动因素，价格波动可能为噪音。"
+  },
+  {
+    "news_id": "yicai_103218878",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 08:23",
+    "title": "中国银河证券：预计短期水泥价格延续震荡趋弱态势",
+    "url": "",
+    "category": "commodities",
+    "related_assets": [
+      "水泥"
+    ],
+    "summary": "水泥需求不足、库存回升、涨价落地不及预期，预计短期价格震荡趋弱。",
+    "region": "domestic",
+    "impact_direction": "bearish",
+    "impact_strength": "medium",
+    "confidence": "high",
+    "reason": "水泥基本面疲弱，需求与库存均指向价格承压，利空水泥相关商品。",
+    "risk_note": "煤炭成本高位可能提供一定支撑，但不足以扭转趋势。"
+  },
+  {
+    "news_id": "cls_2393076",
+    "source": "财联社",
+    "publish_time": "2026-06-08 08:22",
+    "title": "财联社6月8日电，现货黄金回落至4350美元，日内上涨0.52%。",
+    "url": "https://api3.cls.cn/share/article/2393076?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "gold",
+    "related_assets": [
+      "gold"
+    ],
+    "summary": "金价小幅回落但日内仍上涨。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "日内波动无新增驱动信息。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "yicai_103218874",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 08:20",
+    "title": "中信证券：预计二季度保险公司业绩表现抢眼，保险板块正处于长期机遇期中的重要配置窗口",
+    "url": "",
+    "category": "macro",
+    "related_assets": [
+      "A股保险板块"
+    ],
+    "summary": "保险板块业绩预期向好，受益于债券收益率曲线陡峭化及股市调整带来的配置机会。",
+    "region": "domestic",
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "债券收益率上行改善保险资产端收益，股市调整提供低吸机会，对保险板块偏多。",
+    "risk_note": "若权益市场持续下行，投资收益仍可能承压。"
+  },
+  {
+    "news_id": "cls_2393047",
+    "source": "财联社",
+    "publish_time": "2026-06-08 07:55",
+    "title": "投资日历：周一资本市场大事提醒",
+    "url": "https://api3.cls.cn/share/article/2393047?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "macro",
+    "related_assets": [
+      "LME铅",
+      "LME锌"
+    ],
+    "summary": "包括新股上市、国新办吹风会、苹果iOS更新、LME调整涨跌幅限制等多条事件。",
+    "region": "domestic",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "多为常规事件，对大宗商品价格影响有限。LME下调涨跌幅限制可能降低单日极端波动，但方向中性。",
+    "risk_note": "关注国新办政策吹风会对基建相关商品的潜在影响。"
+  },
+  {
+    "news_id": "cls_2393044",
+    "source": "财联社",
+    "publish_time": "2026-06-08 07:44",
+    "title": "韩国交易所召开紧急会议 应对市场波动并强化监控",
+    "url": "https://api3.cls.cn/share/article/2393044?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "macro",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "韩国交易所评估市场波动，关注美股下跌及中东局势，强化监控和应急措施。",
+    "region": "international",
+    "impact_direction": "mixed",
+    "impact_strength": "low",
+    "confidence": "medium",
+    "reason": "韩国交易所关注风险本身反映市场紧张情绪，但措施旨在稳定市场，多空交织。",
+    "risk_note": "需关注后续全球市场联动反应。"
+  },
+  {
+    "news_id": "cls_2393042",
+    "source": "财联社",
+    "publish_time": "2026-06-08 07:37",
+    "title": "摩根大通将10年期美债收益率预期上调至4.70%",
+    "url": "https://api3.cls.cn/share/article/2393042?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "usd_rates",
+    "related_assets": [
+      "gold",
+      "silver"
+    ],
+    "summary": "摩根大通上调美债收益率预期，建议做空美债做多德债。",
+    "region": "international",
+    "impact_direction": "bearish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "美债收益率上行预期利空贵金属，但机构观点不代表实际走势。根据历史回测，利空判断准确率较低，给予中等信心。",
+    "risk_note": "市场已部分消化加息预期，实际影响可能有限。"
+  },
+  {
+    "news_id": "yicai_103218848",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:28",
+    "title": "昨夜今晨重大事件汇总",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "特朗普已知晓以伊局势、伊朗打击以色列、WTI原油高开近3%。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "中东冲突升级触发避险情绪，直接推高原油和贵金属。特朗普表态美军戒备但要求以色列不反击，不确定性仍高。",
+    "risk_note": "冲突若迅速缓和，避险溢价可能快速消退。"
+  },
+  {
+    "news_id": "cls_2393037",
+    "source": "财联社",
+    "publish_time": "2026-06-08 07:28",
+    "title": "泽连斯基提议：乌俄应先行停火 后续谈判化解争端",
+    "url": "https://api3.cls.cn/share/article/2393037?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "crude_oil"
+    ],
+    "summary": "泽连斯基提议乌俄先行停火后再谈判。",
+    "region": "international",
+    "impact_direction": "bearish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "乌俄停火提议若能落实，将降低地缘风险，利空黄金和原油。但提议处于初期阶段，落实难度大，影响微弱。",
+    "risk_note": "停火谈判漫长且不确定，短期难以改变市场焦点。"
+  },
+  {
+    "news_id": "yicai_103218843",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:22",
+    "title": "特朗普称以色列只能接受美伊协议",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "特朗普表示以色列只能接受美国与伊朗的协议，强调自己说了算。",
+    "region": "international",
+    "impact_direction": "mixed",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "特朗普强硬表态试图控制冲突升级，若以色列听从则地缘风险降温，利空避险资产；但以色列可能自行反击带来不确定性。多空交织。",
+    "risk_note": "以色列反应是关键变量，若反击则避险升温。"
+  },
+  {
+    "news_id": "cls_2393034",
+    "source": "财联社",
+    "publish_time": "2026-06-08 07:18",
+    "title": "塔里木油田今年绿电发电量已突破11亿度",
+    "url": "https://api3.cls.cn/share/article/2393034?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "crude_oil",
+    "related_assets": [
+      "crude_oil"
+    ],
+    "summary": "塔里木油田利用太阳能生产绿电，已建成5座光伏电站。",
+    "region": "domestic",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "绿电发展长期对化石能源构成替代压力，但短期对原油供需无显著影响。",
+    "risk_note": "长期能源转型趋势不可逆，但短期不构成交易主题。"
+  },
+  {
+    "news_id": "yicai_103218838",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:11",
+    "title": "伊朗外交部称对以色列进行防御性打击 警告其停止袭击黎巴嫩",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗对以色列发动打击，以军称拦截所有导弹，以色列将强力回应。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "中东冲突实质升级，伊朗直接打击以色列标志局势恶化，强烈避险情绪支撑黄金、原油。",
+    "risk_note": "以色列承诺强力回应，冲突可能进一步扩大。"
+  },
+  {
+    "news_id": "yicai_103218834",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:08",
+    "title": "加沙停火谈判重启 哈马斯移交管理权成谈判重点",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "crude_oil"
+    ],
+    "summary": "加沙停火谈判在开罗重启，关注管理权移交。",
+    "region": "international",
+    "impact_direction": "bearish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "加沙停火谈判若能取得进展，将缓和地区紧张，但当前焦点已转向伊朗-以色列冲突，影响有限。",
+    "risk_note": "谈判可能因伊朗局势而复杂化。"
+  },
+  {
+    "news_id": "yicai_103218830",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:05",
+    "title": "时隔两月 伊朗再次向以色列发动导弹袭击",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗向以色列发射弹道导弹，以军拉响防空警报。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "伊朗对以色列直接军事打击为重大地缘事件，显著推升避险需求和油价。",
+    "risk_note": "局势失控风险极高，需警惕连锁反应。"
+  },
+  {
+    "news_id": "yicai_103218828",
+    "source": "第一财经",
+    "publish_time": "2026-06-08 07:04",
+    "title": "特朗普：已知晓以伊最新局势 美军处于戒备状态",
+    "url": "",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "特朗普知晓局势，催促伊朗回到谈判桌，表示美军处于戒备状态。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "美军戒备状态表明局势紧张程度高，避险情绪强化。但特朗普试图抑制冲突升级，部分缓和风险。偏多。",
+    "risk_note": "美军介入可能进一步升级冲突。"
+  },
+  {
+    "news_id": "cls_2393011",
+    "source": "财联社",
+    "publish_time": "2026-06-08 06:25",
+    "title": "A股市场震荡回调 机构称科技成长仍是下半年核心主线",
+    "url": "https://api3.cls.cn/share/article/2393011?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "macro",
+    "related_assets": [
+      "A股"
+    ],
+    "summary": "A股回调，科技成长受关注。",
+    "region": "domestic",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "市场回调与主线判断对贵金属及商品无直接关联。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "cls_2393006",
+    "source": "财联社",
+    "publish_time": "2026-06-08 06:10",
+    "title": "财联社6月8日电，现货白银日内跌幅扩大至1%，报67.06美元/盎司。",
+    "url": "https://api3.cls.cn/share/article/2393006?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "silver",
+    "related_assets": [
+      "silver"
+    ],
+    "summary": "现货白银价格下跌1%。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "价格波动无新增信息。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "cls_2393005",
+    "source": "财联社",
+    "publish_time": "2026-06-08 06:08",
+    "title": "财联社6月8日电，国际贵金属走低，现货黄金价格跌0.35%，报4312.20美元/盎司；现货白银价格跌0.55%，报67.50美元/盎司。",
+    "url": "https://api3.cls.cn/share/article/2393005?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "precious_metals",
+    "related_assets": [
+      "gold",
+      "silver"
+    ],
+    "summary": "国际贵金属价格普遍下跌。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "价格波动为市场结果，不构成独立驱动。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "cls_2393004",
+    "source": "财联社",
+    "publish_time": "2026-06-08 06:07",
+    "title": "财联社6月8日电，钯金期货日内跌2%，现报1236.80美元/盎司。",
+    "url": "https://api3.cls.cn/share/article/2393004?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "precious_metals",
+    "related_assets": [
+      "钯金"
+    ],
+    "summary": "钯金期货价格下跌2%。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "价格波动无新增信息。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "cls_2393003",
+    "source": "财联社",
+    "publish_time": "2026-06-08 06:01",
+    "title": "伊朗时隔两个月再袭以色列 美油高开约3%",
+    "url": "https://api3.cls.cn/share/article/2393003?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "crude_oil",
+    "related_assets": [
+      "crude_oil",
+      "gold",
+      "silver"
+    ],
+    "summary": "伊朗再袭以色列，WTI原油高开约3%。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "中东地缘冲突直接推升原油供应风险溢价，同时避险情绪支撑贵金属。",
+    "risk_note": "油价上涨可能引发通胀预期，间接影响货币政策。"
+  },
+  {
+    "news_id": "cls_2393002",
+    "source": "财联社",
+    "publish_time": "2026-06-08 05:56",
+    "title": "美联储6月维持利率不变的概率为97%",
+    "url": "https://api3.cls.cn/share/article/2393002?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "usd_rates",
+    "related_assets": [
+      "gold",
+      "silver"
+    ],
+    "summary": "市场预期美联储6月几乎确定维持利率不变。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "medium",
+    "reason": "维持利率不变符合预期，对市场影响有限。7月加息概率上升至15.5%，略偏空，但已部分消化。",
+    "risk_note": "关注后续通胀数据对加息预期的引导。"
+  },
+  {
+    "news_id": "cls_2393001",
+    "source": "财联社",
+    "publish_time": "2026-06-08 05:52",
+    "title": "伊朗再袭以色列后美以领导人通话",
+    "url": "https://api3.cls.cn/share/article/2393001?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "内塔尼亚胡与特朗普通话后进行紧急磋商，以军总参谋长与美军中央司令部通话。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "冲突后高层密集沟通，局势仍高度紧张，避险情绪持续。",
+    "risk_note": "通话可能为缓和局势做准备，需关注后续声明。"
+  },
+  {
+    "news_id": "cls_2392999",
+    "source": "财联社",
+    "publish_time": "2026-06-08 05:31",
+    "title": "周一（6月8日）重点关注财经事件和经济数据",
+    "url": "https://api3.cls.cn/share/article/2392999?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "macro",
+    "related_assets": [
+      "gold",
+      "silver",
+      "usd_index"
+    ],
+    "summary": "关注日本贸易帐、欧元区投资者信心、美国通胀预期等数据。",
+    "region": "international",
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "数据发布前影响有限，需关注实际值与预期偏差。",
+    "risk_note": "美国通胀预期若超预期上升，可能利空贵金属。"
+  },
+  {
+    "news_id": "cls_2392998",
+    "source": "财联社",
+    "publish_time": "2026-06-08 05:27",
+    "title": "以军准备强力打击伊朗",
+    "url": "https://api3.cls.cn/share/article/2392998?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "以军总参谋长表示一旦获允许将立即强力打击伊朗。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "以色列准备反击明确表明冲突将进一步升级，避险与油价溢价将大幅上升。",
+    "risk_note": "若以色列获得美国同意，局势可能快速恶化。"
+  },
+  {
+    "news_id": "cls_2392996",
+    "source": "财联社",
+    "publish_time": "2026-06-08 05:06",
+    "title": "中国驻伊朗使馆提醒在伊中国公民加强安全防范",
+    "url": "https://api3.cls.cn/share/article/2392996?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "crude_oil"
+    ],
+    "summary": "中国驻伊朗使馆提醒在伊中国公民注意安全。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "使馆安全提醒反映局势严峻，但为预防性措施，影响略低于直接军事声明。",
+    "risk_note": "无。"
+  },
+  {
+    "news_id": "cls_2392993",
+    "source": "财联社",
+    "publish_time": "2026-06-08 04:44",
+    "title": "财联社6月8日电，美国国家飓风中心表示，飓风阿曼达或将给墨西哥南部部分地区带来特大暴雨并引发洪涝灾害。",
+    "url": "https://api3.cls.cn/share/article/2392993?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "commodities",
+    "related_assets": [
+      "crude_oil"
+    ],
+    "summary": "飓风可能影响墨西哥南部。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "飓风可能影响墨西哥湾原油生产或运输，但当前路径影响区域有限，油价影响微弱。",
+    "risk_note": "需跟踪飓风路径变化。"
+  },
+  {
+    "news_id": "cls_2392992",
+    "source": "财联社",
+    "publish_time": "2026-06-08 04:13",
+    "title": "特朗普告诉以色列不要反击",
+    "url": "https://api3.cls.cn/share/article/2392992?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "特朗普称将打电话给内塔尼亚胡要求其不要反击伊朗。",
+    "region": "international",
+    "impact_direction": "bearish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "若特朗普成功阻止以色列反击，冲突可能不会进一步升级，避险情绪降温，利空黄金和原油。但以色列是否听从存在变数。",
+    "risk_note": "以色列的独立行动意愿可能使特朗普干预效果打折。"
+  },
+  {
+    "news_id": "cls_2392991",
+    "source": "财联社",
+    "publish_time": "2026-06-08 04:08",
+    "title": "伊朗西部空域关闭",
+    "url": "https://api3.cls.cn/share/article/2392991?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗关闭西部空域，以色列称将做出强硬回应。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "空域关闭是军事行动升级信号，叠加以色列强硬回应承诺，风险急剧上升。",
+    "risk_note": "空域关闭可能影响民航及军事行动，增加不确定性。"
+  },
+  {
+    "news_id": "cls_2392990",
+    "source": "财联社",
+    "publish_time": "2026-06-08 04:03",
+    "title": "伊拉克宣布临时关闭领空",
+    "url": "https://api3.cls.cn/share/article/2392990?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "summary": "伊拉克临时关闭领空。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "伊拉克关闭领空表明中东冲突范围扩大，可能影响原油运输通道，支撑油价和避险资产。",
+    "risk_note": "需关注伊拉克是否会卷入直接冲突。"
+  },
+  {
+    "news_id": "cls_2392989",
+    "source": "财联社",
+    "publish_time": "2026-06-08 04:02",
+    "title": "特朗普建议伊朗发射了导弹就够了",
+    "url": "https://api3.cls.cn/share/article/2392989?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "特朗普建议伊朗停止军事行动并回到谈判桌，同时称美军处于戒备状态。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "美伊冲突升级，特朗普言论暗示局势可能缓解，但美军戒备状态仍反映紧张局势，避险情绪可能支撑黄金白银，原油因地缘风险溢价也可能偏多。历史回测提示模型对黄金、白银利空判断准确性低，不宜做空。",
+    "risk_note": "需关注伊朗后续回应及美军实际动作，局势若缓和可能削弱避险支撑。"
+  },
+  {
+    "news_id": "cls_2392988",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:55",
+    "title": "伊朗伊斯兰革命卫队：如果以色列的侵略行为再次发生 伊朗回应的范围将更加广泛",
+    "url": "https://api3.cls.cn/share/article/2392988?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗革命卫队警告若以色列再侵略，将扩大回应范围至所有美以目标。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "伊朗强硬表态暗示冲突可能进一步升级，地缘政治风险显著上升，避险情绪升温对黄金白银偏多；原油供应中断担忧也可能推高油价。历史回测显示模型对金银利多判断准确率较高，支持看多。",
+    "risk_note": "若后续有外交斡旋或停火信号，避险情绪可能快速下降。"
+  },
+  {
+    "news_id": "cls_2392986",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:51",
+    "title": "伊朗最高领袖顾问：伊朗已对侵略者作出“回应”",
+    "url": "https://api3.cls.cn/share/article/2392986?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗最高领袖顾问称已对侵略者作出警告性回应，并威胁若再行动将更强力回应。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "伊朗高层确认已采取军事行动并保留升级权利，地缘紧张局势加剧，避险需求上升对黄金白银偏多；原油市场关注中东供应风险。历史回测支持贵金属利多判断，原油需警惕过度乐观。",
+    "risk_note": "原油方面模型显示利多判断准确率较低，需谨慎评估油价上行持续性。"
+  },
+  {
+    "news_id": "cls_2392984",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:48",
+    "title": "财联社6月8日电，据美国媒体报道，美国总统特朗普已听取关于以色列与伊朗之间局势升级的简报。",
+    "url": "https://api3.cls.cn/share/article/2392984?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "美国总统特朗普已听取以伊局势升级简报，表明美国政府高度关注事态。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "特朗普听取简报反映局势重要性，但未提供新信息或行动信号，对市场影响有限，避险情绪可能维持但增量有限。",
+    "risk_note": "事件驱动型新闻，缺乏实质内容，价格波动可能不大。"
+  },
+  {
+    "news_id": "cls_2392983",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:39",
+    "title": "伊朗武装部队警告：或对以色列采取进一步行动",
+    "url": "https://api3.cls.cn/share/article/2392983?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗武装部队警告若以色列不停止对黎巴嫩的袭击，将采取更强烈行动。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "伊朗明确威胁升级行动，地缘风险溢价上升，避险资产黄金白银可能获得支撑；原油因地缘供应担忧偏多。历史回测支持贵金属利多方向。",
+    "risk_note": "警告尚未转化为实际攻击，市场可能部分消化风险，需关注后续发展。"
+  },
+  {
+    "news_id": "cls_2392981",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:32",
+    "title": "以军正在拦截伊朗来袭导弹 多地拉响防空警报",
+    "url": "https://api3.cls.cn/share/article/2392981?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "以军拦截伊朗导弹，北部多地防空警报响起，民防要求民众避难。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "实际军事冲突发生，避险情绪急剧升温，黄金白银短期偏多；原油市场担心霍尔木兹海峡等关键通道受影响。历史回测模型对贵金属利多判断准确率高。",
+    "risk_note": "若拦截成功且冲突未扩大，避险情绪可能迅速回落。"
+  },
+  {
+    "news_id": "cls_2392980",
+    "source": "财联社",
+    "publish_time": "2026-06-08 03:10",
+    "title": "伊朗时隔两个月再袭以色列",
+    "url": "https://api3.cls.cn/share/article/2392980?os=web&sv=8.7.9&app=CailianpressWeb",
+    "category": "geopolitics",
+    "related_assets": [
+      "gold",
+      "silver",
+      "crude_oil"
+    ],
+    "summary": "伊朗向以色列发射两轮导弹，打破两个月停火，冲突再度爆发。",
+    "region": "international",
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "停火协议破裂，地缘风险显著加剧，避险资产黄金白银可能大幅上涨；原油受中东供应中断风险支撑偏多。历史回测显示模型对贵金属利多判断准确率高，对原油利多需谨慎。",
+    "risk_note": "原油方面模型历史利多判断准确率仅38%，建议对油价上涨预期持保留态度。"
+  }
+]

@@ -1,0 +1,632 @@
+{
+  "backtest_date": "20260604",
+  "run_time": "2026-06-05 10:46:16",
+  "total_news": 38,
+  "total_judgeable": 68,
+  "total_correct": 42,
+  "overall_accuracy": 0.6176,
+  "asset_results": {
+    "gold": {
+      "asset": "gold",
+      "count": 35,
+      "judgeable": 25,
+      "correct": 17,
+      "accuracy": 0.68,
+      "actual_change_pct": 0.8896,
+      "actual_open_price": 4462.7,
+      "actual_close_price": 4502.4,
+      "actual_trade_date": "2026-06-04",
+      "detail": [
+        {
+          "news_id": "cls_2391334",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391322",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216465",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391316",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216460",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391308",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216458",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391302",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216449",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391297",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391290",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391288",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391287",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216441",
+          "direction": "mixed",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391281",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216432",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216430",
+          "direction": "neutral",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216428",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216426",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216424",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216422",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216420",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391267",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391258",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216409",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216408",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391251",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391198",
+          "direction": "mixed",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216406",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391249",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216405",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216404",
+          "direction": "mixed",
+          "actual_change": 0.8896,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216395",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391230",
+          "direction": "bullish",
+          "actual_change": 0.8896,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391225",
+          "direction": "bearish",
+          "actual_change": 0.8896,
+          "is_correct": false
+        }
+      ]
+    },
+    "silver": {
+      "asset": "silver",
+      "count": 32,
+      "judgeable": 25,
+      "correct": 17,
+      "accuracy": 0.68,
+      "actual_change_pct": 1.5971,
+      "actual_open_price": 72.945,
+      "actual_close_price": 74.11,
+      "actual_trade_date": "2026-06-04",
+      "detail": [
+        {
+          "news_id": "cls_2391334",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391322",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216465",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391316",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216460",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391308",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216458",
+          "direction": "neutral",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216449",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391297",
+          "direction": "neutral",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391290",
+          "direction": "neutral",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216441",
+          "direction": "mixed",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391281",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216432",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216430",
+          "direction": "neutral",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216428",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216426",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216424",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216422",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216420",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391267",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391258",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216409",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216408",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391251",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391198",
+          "direction": "mixed",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216406",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391249",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216405",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216404",
+          "direction": "mixed",
+          "actual_change": 1.5971,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216395",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391230",
+          "direction": "bullish",
+          "actual_change": 1.5971,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391225",
+          "direction": "bearish",
+          "actual_change": 1.5971,
+          "is_correct": false
+        }
+      ]
+    },
+    "crude_oil": {
+      "asset": "crude_oil",
+      "count": 21,
+      "judgeable": 17,
+      "correct": 7,
+      "accuracy": 0.4118,
+      "actual_change_pct": -3.4103,
+      "actual_open_price": 96.18,
+      "actual_close_price": 92.9,
+      "actual_trade_date": "2026-06-04",
+      "detail": [
+        {
+          "news_id": "cls_2391334",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391322",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216458",
+          "direction": "neutral",
+          "actual_change": -3.4103,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216449",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216441",
+          "direction": "mixed",
+          "actual_change": -3.4103,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216428",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216426",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216424",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216422",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216420",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391258",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216409",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103216408",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391198",
+          "direction": "mixed",
+          "actual_change": -3.4103,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216406",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391249",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216405",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103216404",
+          "direction": "mixed",
+          "actual_change": -3.4103,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103216395",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391230",
+          "direction": "bullish",
+          "actual_change": -3.4103,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2391225",
+          "direction": "bearish",
+          "actual_change": -3.4103,
+          "is_correct": true
+        }
+      ]
+    },
+    "usd_index": {
+      "asset": "usd_index",
+      "count": 7,
+      "judgeable": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "actual_change_pct": -0.0873,
+      "actual_open_price": 99.5169,
+      "actual_close_price": 99.43,
+      "actual_trade_date": "2026-06-04",
+      "detail": [
+        {
+          "news_id": "cls_2391302",
+          "direction": "neutral",
+          "actual_change": -0.0873,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391297",
+          "direction": "neutral",
+          "actual_change": -0.0873,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391290",
+          "direction": "neutral",
+          "actual_change": -0.0873,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391288",
+          "direction": "neutral",
+          "actual_change": -0.0873,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391287",
+          "direction": "neutral",
+          "actual_change": -0.0873,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2391251",
+          "direction": "bearish",
+          "actual_change": -0.0873,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2391198",
+          "direction": "mixed",
+          "actual_change": -0.0873,
+          "is_correct": null
+        }
+      ]
+    }
+  }
+}

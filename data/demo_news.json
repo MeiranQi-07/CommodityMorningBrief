@@ -1,0 +1,50 @@
+[
+  {
+    "news_id": "demo001",
+    "source": "财联社",
+    "publish_time": "2026-05-19 06:30",
+    "title": "美元指数走弱，市场降息预期升温",
+    "url": "",
+    "summary": "隔夜美元指数回落，美债收益率小幅下行，市场对美联储降息预期有所升温。",
+    "region": "international",
+    "category": "usd_rates",
+    "related_assets": ["gold", "silver", "usd_index", "bond_yield"],
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "美元走弱和美债收益率下行通常降低持有黄金的机会成本，对黄金和白银价格形成一定支撑。",
+    "risk_note": "若后续美联储表态偏鹰，降息预期可能回落。"
+  },
+  {
+    "news_id": "demo002",
+    "source": "华尔街见闻",
+    "publish_time": "2026-05-19 07:10",
+    "title": "国际油价上涨，市场关注地缘政治风险",
+    "url": "",
+    "summary": "受供应扰动和地缘政治不确定性影响，国际油价出现上涨。",
+    "region": "international",
+    "category": "crude_oil",
+    "related_assets": ["crude_oil", "gold"],
+    "impact_direction": "mixed",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "油价上涨可能推升通胀预期，对黄金有一定支撑；但若通胀压力引发更高利率预期，也可能对贵金属形成压制。",
+    "risk_note": "油价影响需要结合美元和美债收益率共同观察。"
+  },
+  {
+    "news_id": "demo003",
+    "source": "东方财富",
+    "publish_time": "2026-05-19 07:45",
+    "title": "市场避险情绪升温，贵金属关注度提升",
+    "url": "",
+    "summary": "受海外不确定性影响，市场避险需求有所抬升，贵金属板块受到关注。",
+    "region": "domestic",
+    "category": "precious_metals",
+    "related_assets": ["gold", "silver"],
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "避险情绪升温通常有利于黄金价格表现，同时可能带动白银跟随贵金属整体情绪变化。",
+    "risk_note": "若风险事件缓和，避险溢价可能回落。"
+  }
+]

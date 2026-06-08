@@ -1,0 +1,701 @@
+{
+  "backtest_date": "20260607",
+  "run_time": "2026-06-08 19:54:46",
+  "total_news": 46,
+  "total_judgeable": 0,
+  "total_correct": 0,
+  "overall_accuracy": null,
+  "asset_results": {
+    "gold": {
+      "asset": "gold",
+      "count": 42,
+      "judgeable": 0,
+      "correct": 0,
+      "accuracy": null,
+      "actual_change_pct": null,
+      "actual_open_price": null,
+      "actual_close_price": null,
+      "actual_trade_date": null,
+      "detail": [
+        {
+          "news_id": "yicai_103218884",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393085",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218882",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393082",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393081",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393076",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393074",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393068",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218869",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218865",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393067",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393065",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393064",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218860",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393061",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218850",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393044",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393042",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218848",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393037",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218843",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218838",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218834",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218830",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218828",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393005",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393003",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393002",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393001",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392999",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392998",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392996",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392992",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392991",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392990",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392989",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392988",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392986",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392984",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392983",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392981",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392980",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        }
+      ]
+    },
+    "silver": {
+      "asset": "silver",
+      "count": 41,
+      "judgeable": 0,
+      "correct": 0,
+      "accuracy": null,
+      "actual_change_pct": null,
+      "actual_open_price": null,
+      "actual_close_price": null,
+      "actual_trade_date": null,
+      "detail": [
+        {
+          "news_id": "yicai_103218884",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393085",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393082",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393081",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393074",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393068",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218869",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218865",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393067",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393065",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393064",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218860",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393061",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218850",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393044",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393042",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218848",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393037",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218843",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218838",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218834",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218830",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218828",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393006",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393005",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393003",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393002",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393001",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392999",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392998",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392996",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392992",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392991",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392990",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392989",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392988",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392986",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392984",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392983",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392981",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392980",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        }
+      ]
+    },
+    "crude_oil": {
+      "asset": "crude_oil",
+      "count": 24,
+      "judgeable": 0,
+      "correct": 0,
+      "accuracy": null,
+      "actual_change_pct": null,
+      "actual_open_price": null,
+      "actual_close_price": null,
+      "actual_trade_date": null,
+      "detail": [
+        {
+          "news_id": "yicai_103218878",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218850",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218848",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393037",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218843",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393034",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218838",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218834",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218830",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103218828",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393003",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2393001",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392998",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392996",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392992",
+          "direction": "bearish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392991",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392990",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392989",
+          "direction": "mixed",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392988",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392986",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392984",
+          "direction": "neutral",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392983",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392981",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2392980",
+          "direction": "bullish",
+          "actual_change": null,
+          "is_correct": null
+        }
+      ]
+    },
+    "usd_index": {
+      "asset": "usd_index",
+      "count": 0,
+      "judgeable": 0,
+      "correct": 0,
+      "accuracy": null,
+      "actual_change_pct": null,
+      "actual_trade_date": null,
+      "detail": []
+    }
+  }
+}

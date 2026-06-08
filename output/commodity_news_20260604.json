@@ -1,0 +1,302 @@
+[
+  {
+    "news_id": "cls_2390164",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:58",
+    "title": "现货黄金回升至4450美元，日内上涨0.34%",
+    "summary": "现货黄金回升至4450美元，日内上涨0.34%，夜盘曾跌至4441美元(-1.04%)后反弹。",
+    "region": "international",
+    "category": "gold",
+    "related_assets": [
+      "gold"
+    ],
+    "impact_direction": "mixed",
+    "impact_strength": "medium",
+    "confidence": "high",
+    "reason": "金价先跌后涨，避险支撑 vs 强美元利率压制，多空博弈加剧"
+  },
+  {
+    "news_id": "cls_2390129",
+    "source": "财联社",
+    "publish_time": "2026-06-04 04:10",
+    "title": "现货白银跌近3%，黄金跌1.04%",
+    "summary": "夜盘贵金属大幅回落：黄金跌1.04%报4441美元，白银跌2.92%报72.91美元。",
+    "region": "international",
+    "category": "silver",
+    "related_assets": [
+      "gold",
+      "silver"
+    ],
+    "impact_direction": "bearish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "鹰派美联储表态+美元走强，贵金属夜盘承压回落"
+  },
+  {
+    "news_id": "cls_2390166",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:59",
+    "title": "现货白银反弹至73美元，日内涨0.48%",
+    "summary": "现货白银反弹至73美元日内涨0.48%，夜盘曾跌近3%后企稳。",
+    "region": "international",
+    "category": "silver",
+    "related_assets": [
+      "silver"
+    ],
+    "impact_direction": "mixed",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "白银大幅波动后反弹，工业属性和避险属性拉锯"
+  },
+  {
+    "news_id": "cls_2390111",
+    "source": "财联社",
+    "publish_time": "2026-06-04 02:32",
+    "title": "WTI原油期货结算价上涨2.41%",
+    "summary": "WTI原油结算价涨2.41%报96.02美元/桶；布伦特涨1.89%报97.81美元/桶。",
+    "region": "international",
+    "category": "crude_oil",
+    "related_assets": [
+      "crude_oil"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "美伊冲突+EIA库存骤降+海峡封锁三重利多推动油价大涨"
+  },
+  {
+    "news_id": "cls_2390157",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:35",
+    "title": "WTI原油从日内低点反弹至95美元",
+    "summary": "WTI原油从日内低点反弹至95.20美元/桶，日内跌0.85%。",
+    "region": "international",
+    "category": "crude_oil",
+    "related_assets": [
+      "crude_oil"
+    ],
+    "impact_direction": "mixed",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "原油从结算价高位回落，美伊谈判预期与冲突升级相互拉扯"
+  },
+  {
+    "news_id": "yicai_103214830",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 08:23",
+    "title": "特朗普：若有美军士兵战死将考虑终止与伊朗停火",
+    "summary": "特朗普表示若有美军在冲突中阵亡将重新评估停火协议。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "medium",
+    "reason": "停火协议可能生变，地缘不确定性上升推升避险和油价溢价"
+  },
+  {
+    "news_id": "cls_2390120",
+    "source": "财联社",
+    "publish_time": "2026-06-04 03:23",
+    "title": "伊朗军队称刚刚打击美军指挥舰",
+    "summary": "伊朗声称在美军袭击伊朗商船后对美军指挥舰实施打击。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "伊美军事冲突直接升级，大幅推升避险和油价"
+  },
+  {
+    "news_id": "cls_2390158",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:39",
+    "title": "特朗普称美伊协议可能本周末达成",
+    "summary": "特朗普称谈判进展顺利，协议可能本周末达成，海峡将重开。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bearish",
+    "impact_strength": "high",
+    "confidence": "medium",
+    "reason": "谈判进展+海峡开放预期利空原油，降低避险利多黄金"
+  },
+  {
+    "news_id": "yicai_103214808",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 07:15",
+    "title": "伊朗军队称打击一艘美国军舰",
+    "summary": "伊朗军队称对美军指挥与控制中心所在军舰实施打击。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "high",
+    "confidence": "high",
+    "reason": "军事冲突持续升级，地缘风险溢价高企"
+  },
+  {
+    "news_id": "yicai_103214795",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 06:15",
+    "title": "美众议院通过决议限制特朗普对伊动武权力",
+    "summary": "美众议院通过决议限制特朗普对伊动武，要求结束军事行动。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bearish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "限制动武降低地缘风险溢价"
+  },
+  {
+    "news_id": "yicai_103214810",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 07:16",
+    "title": "美军反驳伊朗关于机场受损的说法",
+    "summary": "美军称伊朗声称导弹拦截器误落机场的说法纯属虚假。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "美伊互相指责，局势持续紧张"
+  },
+  {
+    "news_id": "cls_2390151",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:16",
+    "title": "美联储6月维持利率不变的概率为98.4%",
+    "summary": "CME美联储观察：6月维持利率不变概率98.4%，7月不变概率90.2%。",
+    "region": "international",
+    "category": "usd_rates",
+    "related_assets": [
+      "usd_index",
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "high",
+    "reason": "利率维持高位支撑美元，对黄金构成中期压力"
+  },
+  {
+    "news_id": "cls_2390126",
+    "source": "财联社",
+    "publish_time": "2026-06-04 04:03",
+    "title": "美联储洛根：今年晚些时候可能需要更高利率",
+    "summary": "美联储官员洛根表示今年晚些时候可能需要更高利率。",
+    "region": "international",
+    "category": "usd_rates",
+    "related_assets": [
+      "usd_index",
+      "gold"
+    ],
+    "impact_direction": "bearish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "鹰派表态支撑美元和美债收益率，对黄金偏空"
+  },
+  {
+    "news_id": "cls_2390098",
+    "source": "财联社",
+    "publish_time": "2026-06-04 06:33",
+    "title": "周四重点关注财经事件：褐皮书、洛根讲话、成品油调价",
+    "summary": "今日关注：美联储褐皮书、洛根讲话、国内成品油调价窗口。",
+    "region": "international",
+    "category": "macro",
+    "related_assets": [
+      "usd_index",
+      "gold",
+      "crude_oil"
+    ],
+    "impact_direction": "neutral",
+    "impact_strength": "low",
+    "confidence": "medium",
+    "reason": "多个宏观事件待公布，市场不确定性较高"
+  },
+  {
+    "news_id": "yicai_103214822",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 07:40",
+    "title": "AI与新能源需求共振 高端铜箔产能供不应求",
+    "summary": "高端PCB铜箔和锂电铜箔满产满销，价格持续上涨。",
+    "region": "domestic",
+    "category": "commodities",
+    "related_assets": [
+      "copper"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "low",
+    "confidence": "medium",
+    "reason": "需求端结构性利好，偏中长期影响，短期铜价受宏观因素主导"
+  },
+  {
+    "news_id": "yicai_103214821",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 07:37",
+    "title": "昨夜今晨重大事件汇总",
+    "summary": "美限制对伊动武、特朗普称协议或本周末达成、伊称打击美军舰。",
+    "region": "international",
+    "category": "geopolitics",
+    "related_assets": [
+      "crude_oil",
+      "gold"
+    ],
+    "impact_direction": "mixed",
+    "impact_strength": "high",
+    "confidence": "medium",
+    "reason": "多空信息交织：限制动武利空vs伊打击美军舰利多"
+  },
+  {
+    "news_id": "yicai_103214321",
+    "source": "第一财经",
+    "publish_time": "2026-06-04 06:00",
+    "title": "隔夜全球要闻：美股三大股指收跌",
+    "summary": "道指跌1.20%，标普跌0.73%，纳指跌0.89%。避险情绪上升。",
+    "region": "international",
+    "category": "macro",
+    "related_assets": [
+      "gold"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "medium",
+    "confidence": "medium",
+    "reason": "美股下跌反映避险情绪升温，对黄金偏多"
+  },
+  {
+    "news_id": "cls_2389795",
+    "source": "财联社",
+    "publish_time": "2026-06-04 08:11",
+    "title": "华泰证券：厄尔尼诺来袭 关注商品产业链",
+    "summary": "华泰证券称厄尔尼诺正在形成，关注白糖、天然橡胶等商品。",
+    "region": "international",
+    "category": "commodities",
+    "related_assets": [
+      "crude_oil"
+    ],
+    "impact_direction": "bullish",
+    "impact_strength": "low",
+    "confidence": "low",
+    "reason": "厄尔尼诺影响农产品供给和能源需求，间接支撑商品价格"
+  }
+]

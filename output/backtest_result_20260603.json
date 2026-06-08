@@ -1,0 +1,236 @@
+{
+  "backtest_date": "20260603",
+  "run_time": "2026-06-04 16:56:20",
+  "total_news": 18,
+  "total_judgeable": 21,
+  "total_correct": 12,
+  "overall_accuracy": 0.5714,
+  "asset_results": {
+    "gold": {
+      "asset": "gold",
+      "count": 13,
+      "judgeable": 10,
+      "correct": 4,
+      "accuracy": 0.4,
+      "actual_change_pct": -1.2502,
+      "actual_open_price": 4519.2,
+      "actual_close_price": 4462.7,
+      "actual_trade_date": "2026-06-03",
+      "detail": [
+        {
+          "news_id": "cls_2390164",
+          "direction": "mixed",
+          "actual_change": -1.2502,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2390129",
+          "direction": "bearish",
+          "actual_change": -1.2502,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103214830",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2390120",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2390158",
+          "direction": "bearish",
+          "actual_change": -1.2502,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103214808",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103214795",
+          "direction": "bearish",
+          "actual_change": -1.2502,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103214810",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2390151",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2390126",
+          "direction": "bearish",
+          "actual_change": -1.2502,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390098",
+          "direction": "neutral",
+          "actual_change": -1.2502,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103214821",
+          "direction": "mixed",
+          "actual_change": -1.2502,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103214321",
+          "direction": "bullish",
+          "actual_change": -1.2502,
+          "is_correct": false
+        }
+      ]
+    },
+    "silver": {
+      "asset": "silver",
+      "count": 2,
+      "judgeable": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "actual_change_pct": -3.2688,
+      "actual_open_price": 75.41,
+      "actual_close_price": 72.945,
+      "actual_trade_date": "2026-06-03",
+      "detail": [
+        {
+          "news_id": "cls_2390129",
+          "direction": "bearish",
+          "actual_change": -3.2688,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390166",
+          "direction": "mixed",
+          "actual_change": -3.2688,
+          "is_correct": null
+        }
+      ]
+    },
+    "crude_oil": {
+      "asset": "crude_oil",
+      "count": 11,
+      "judgeable": 8,
+      "correct": 6,
+      "accuracy": 0.75,
+      "actual_change_pct": 2.9213,
+      "actual_open_price": 93.45,
+      "actual_close_price": 96.18,
+      "actual_trade_date": "2026-06-03",
+      "detail": [
+        {
+          "news_id": "cls_2390111",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390157",
+          "direction": "mixed",
+          "actual_change": 2.9213,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103214830",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390120",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390158",
+          "direction": "bearish",
+          "actual_change": 2.9213,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103214808",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        },
+        {
+          "news_id": "yicai_103214795",
+          "direction": "bearish",
+          "actual_change": 2.9213,
+          "is_correct": false
+        },
+        {
+          "news_id": "yicai_103214810",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390098",
+          "direction": "neutral",
+          "actual_change": 2.9213,
+          "is_correct": null
+        },
+        {
+          "news_id": "yicai_103214821",
+          "direction": "mixed",
+          "actual_change": 2.9213,
+          "is_correct": null
+        },
+        {
+          "news_id": "cls_2389795",
+          "direction": "bullish",
+          "actual_change": 2.9213,
+          "is_correct": true
+        }
+      ]
+    },
+    "usd_index": {
+      "asset": "usd_index",
+      "count": 3,
+      "judgeable": 2,
+      "correct": 1,
+      "accuracy": 0.5,
+      "actual_change_pct": 0.3194,
+      "actual_open_price": 99.2075,
+      "actual_close_price": 99.5244,
+      "actual_trade_date": "2026-06-03",
+      "detail": [
+        {
+          "news_id": "cls_2390151",
+          "direction": "bullish",
+          "actual_change": 0.3194,
+          "is_correct": true
+        },
+        {
+          "news_id": "cls_2390126",
+          "direction": "bearish",
+          "actual_change": 0.3194,
+          "is_correct": false
+        },
+        {
+          "news_id": "cls_2390098",
+          "direction": "neutral",
+          "actual_change": 0.3194,
+          "is_correct": null
+        }
+      ]
+    }
+  }
+}

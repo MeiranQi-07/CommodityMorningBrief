@@ -416,9 +416,19 @@ def build_focus_section(all_news):
     return lines
 
 
+def importance_score(news):
+    """综合 impact_strength + confidence 打分，用于排序"""
+    strength_map = {"high": 10, "medium": 5, "low": 1}
+    conf_map = {"high": 1.0, "medium": 0.85, "low": 0.6}
+    s = strength_map.get(news.get("impact_strength", "low"), 1)
+    c = conf_map.get(news.get("confidence", "low"), 0.6)
+    return s * c
+
+
 def build_report(all_news, today, use_demo_news, raw_candidates=0):
-    """报告只取前10条最重要的新闻"""
-    top_news = all_news[:10]
+    """报告只取前10条最重要的新闻，按综合评分排序"""
+    sorted_news = sorted(all_news, key=importance_score, reverse=True)
+    top_news = sorted_news[:10]
     total = len(all_news)
     domestic = sum(1 for n in top_news if n.get("region") == "domestic")
     international = sum(1 for n in top_news if n.get("region") == "international")
